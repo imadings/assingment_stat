@@ -1,1 +1,16 @@
 
+(a) Summary Statistics (12 points)
+(4 points) Load the dataset into Python and display the first few rows.
+
+(4 points) Compute summary statistics (mean, standard deviation, min, max) for BP_Reduction, Age, and BMI.
+
+(4 points) Count how many patients are in each treatment group and each gender.
+
+(b) Data Visualization (18 points)
+(5 points) Create a boxplot showing blood pressure reduction per treatment group.conclude?
+
+(4 points) Create a histogram of BP_Reduction to assess its distribution.
+
+(5 points) Create a scatter plot of BP_Reduction vs. Age and BP_Reduction vs. BMI.
+
+(4 points) Comment on any patterns you observe from each plot and computation above.
