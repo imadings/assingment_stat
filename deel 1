@@ -1,3 +1,17 @@
+import numpy as np
+import package_name as nickname_for_package
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
+from scipy import stats
+from scipy.stats import shapiro
+sns.set_theme(style='whitegrid')  # prettier plots
+
+df = pd.read_csv("Dataset.csv")
+df
 
 (4 points) Load the dataset into Python and display the first few rows.
 
