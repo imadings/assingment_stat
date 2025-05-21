@@ -1,0 +1,101 @@
+Patient_ID,Treatment_Group,Age,BMI,Gender,BP_Reduction
+1,Drug B,73,27.5,Female,9.44
+2,Placebo,37,24.9,Male,9.18
+3,Drug B,53,19.1,Female,5.55
+4,Drug B,40,22.3,Male,13.26
+5,Placebo,46,22.2,Female,4.92
+6,Placebo,37,29.8,Male,9.17
+7,Drug B,64,30.1,Female,10.31
+8,Drug A,64,20.5,Female,6.3
+9,Drug B,62,35.0,Female,13.75
+10,Drug B,34,22.5,Male,14.99
+11,Drug B,71,34.6,Female,8.59
+12,Drug B,68,25.0,Male,13.36
+13,Placebo,70,18.6,Female,0.13
+14,Drug B,57,23.9,Male,16.36
+15,Drug A,36,28.8,Female,9.24
+16,Placebo,38,29.6,Male,10.62
+17,Drug A,37,27.0,Male,9.82
+18,Drug A,41,25.6,Female,7.26
+19,Drug A,63,27.4,Male,9.97
+20,Drug A,62,28.1,Male,12.86
+21,Placebo,77,19.4,Female,-0.52
+22,Placebo,52,24.3,Male,9.08
+23,Drug A,53,22.1,Male,11.05
+24,Drug A,66,31.7,Male,7.92
+25,Placebo,64,26.0,Female,3.26
+26,Placebo,73,34.7,Male,8.06
+27,Placebo,69,24.8,Female,2.01
+28,Drug B,51,31.9,Male,16.01
+29,Drug B,56,31.6,Male,12.27
+30,Drug B,64,20.6,Male,12.93
+31,Drug A,30,26.6,Female,9.66
+32,Drug B,64,29.8,Male,15.72
+33,Drug A,66,32.6,Male,9.56
+34,Drug A,76,23.5,Female,7.17
+35,Drug B,43,21.7,Male,11.93
+36,Drug A,32,30.1,Female,4.72
+37,Drug B,30,31.8,Female,12.09
+38,Drug B,34,23.9,Male,15.51
+39,Placebo,55,19.6,Female,5.89
+40,Drug B,43,34.0,Male,16.7
+41,Placebo,68,24.8,Female,4.05
+42,Drug B,56,26.8,Female,9.51
+43,Drug B,38,32.2,Male,13.69
+44,Placebo,44,29.5,Female,4.95
+45,Placebo,44,30.5,Female,6.25
+46,Drug B,55,21.6,Female,8.32
+47,Drug A,71,27.2,Female,6.01
+48,Placebo,42,29.8,Female,3.36
+49,Drug A,61,21.9,Male,10.27
+50,Drug A,68,21.0,Female,6.01
+51,Drug A,78,34.7,Male,11.45
+52,Placebo,61,26.8,Female,4.05
+53,Drug A,33,22.4,Male,11.23
+54,Placebo,59,34.9,Male,11.83
+55,Drug A,66,34.4,Female,10.04
+56,Drug B,52,27.5,Female,7.26
+57,Drug B,68,33.0,Female,9.17
+58,Placebo,74,21.2,Male,3.82
+59,Drug B,44,22.7,Female,8.62
+60,Drug B,72,29.9,Male,13.75
+61,Drug A,58,32.4,Male,11.5
+62,Placebo,65,32.6,Male,8.31
+63,Drug A,42,24.9,Female,6.74
+64,Drug A,61,33.1,Female,5.31
+65,Drug A,36,32.5,Male,12.97
+66,Drug A,51,33.9,Male,12.92
+67,Drug A,57,31.4,Female,10.82
+68,Drug A,31,29.4,Male,10.57
+69,Drug A,71,27.9,Female,7.0
+70,Placebo,74,24.3,Male,7.09
+71,Drug B,35,34.0,Female,10.68
+72,Drug A,57,34.6,Male,11.29
+73,Drug A,57,22.8,Female,6.26
+74,Drug A,73,23.2,Male,9.61
+75,Drug A,73,26.3,Female,6.64
+76,Drug A,49,25.6,Female,8.07
+77,Drug A,59,34.9,Male,12.38
+78,Drug B,40,21.0,Male,11.38
+79,Drug B,57,18.3,Female,6.33
+80,Drug A,54,26.4,Male,7.9
+81,Drug B,68,21.0,Female,5.68
+82,Placebo,62,24.2,Male,8.13
+83,Drug A,30,30.7,Female,7.79
+84,Placebo,56,30.3,Female,8.03
+85,Placebo,42,23.2,Female,5.59
+86,Drug A,70,27.2,Female,6.28
+87,Drug B,32,26.6,Female,12.83
+88,Placebo,68,28.8,Female,3.15
+89,Drug A,35,22.3,Male,11.76
+90,Placebo,37,28.0,Male,8.97
+91,Placebo,56,34.6,Male,9.89
+92,Placebo,38,26.3,Female,5.7
+93,Placebo,66,33.4,Female,4.37
+94,Drug B,62,25.4,Female,9.9
+95,Placebo,71,24.0,Female,0.5
+96,Placebo,73,29.0,Male,2.33
+97,Placebo,53,29.4,Male,10.17
+98,Drug B,44,32.7,Female,8.58
+99,Placebo,61,21.9,Male,5.72
+100,Placebo,61,26.5,Male,7.06
